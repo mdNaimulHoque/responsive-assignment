@@ -5,5 +5,11 @@ header {
     background-color:#FFF9F4;
 }
 .text-highlight {
-    color: #FA804C;;
+    color: #FA804C;
+}
+.product-card{
+    margin: 5px;
+}
+.bg-color {
+    background-color: #FA804C;
 }
